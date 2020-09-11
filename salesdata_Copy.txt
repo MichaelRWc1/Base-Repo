@@ -10,7 +10,7 @@ leggings,25.25,3
 skirt,19.95,5
 belt,12.05,1
 sweater,14.45,2
-
+\
+I took away some words
 Below will be the actual total.
 
-I added more words
